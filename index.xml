@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 29 Jun 2026 11:09:59 +0800</lastBuildDate>
+			<lastBuildDate>Tue, 30 Jun 2026 14:11:45 +0800</lastBuildDate>
 		
 			<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>第一篇blog</title>
+				<link>http://example.org/posts/%E7%AC%AC%E4%B8%80%E7%AF%87blog/</link>
+				<pubDate>Tue, 30 Jun 2026 14:11:45 +0800</pubDate>
+				<guid>http://example.org/posts/%E7%AC%AC%E4%B8%80%E7%AF%87blog/</guid>
+				<description>&lt;p&gt;这次更换了新电脑，所有博客相关环境都需要重新搭建，重新安装 Hugo 与 Git 工具，同步远程仓库文件，一步步复现建站流程，也记住了不能使用强制推送指令，避免线上博客内容被覆盖丢失。&#xA;2025年10月份曾经搭过一个博客，但是换电脑了，环境全没了，所以说这一次是重新装配的。&#xA;以后会在这里发布文章。&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>111</title>
 				<link>http://example.org/posts/111/</link>
